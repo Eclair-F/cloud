@@ -28,11 +28,11 @@
       </GradleProjectSettings>
       <GradleProjectSettings>
         <option name="distributionType" value="DEFAULT_WRAPPED" />
-        <option name="externalProjectPath" value="$PROJECT_DIR$/user" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$/tuibine" />
         <option name="gradleHome" value="D:/Java/gradle-6.0.1" />
         <option name="modules">
           <set>
-            <option value="$PROJECT_DIR$/user" />
+            <option value="$PROJECT_DIR$/tuibine" />
           </set>
         </option>
         <option name="useAutoImport" value="true" />
@@ -40,11 +40,11 @@
       </GradleProjectSettings>
       <GradleProjectSettings>
         <option name="distributionType" value="DEFAULT_WRAPPED" />
-        <option name="externalProjectPath" value="$PROJECT_DIR$/web" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$/user" />
         <option name="gradleHome" value="D:/Java/gradle-6.0.1" />
         <option name="modules">
           <set>
-            <option value="$PROJECT_DIR$/web" />
+            <option value="$PROJECT_DIR$/user" />
           </set>
         </option>
         <option name="useAutoImport" value="true" />
